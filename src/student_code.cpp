@@ -16,7 +16,7 @@ float getFloatValue() {
 
 char getCharValue() {
     // Declare a variable var_char of type character and set its value to A.
-    char var_char = 'A'
+    char var_char = 'A';
     // return var_char;
     return var_char;
 }
@@ -34,8 +34,8 @@ Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
 */
 float fahrenheitToCelsius(float fahrenheit) {
-    float Celsius = (Fahrenheit -32) * 5 / 9;
+    float Celsius = (fahrenheit -32) * 5 / 9;
     //return celsius;
-    return Celsius
+    return Celsius;
 
 }
