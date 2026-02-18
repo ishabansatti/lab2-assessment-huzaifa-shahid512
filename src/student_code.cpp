@@ -33,7 +33,6 @@ Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
 */
 float fahrenheitToCelsius(float fahrenheit) {
-    float 
     cout << "Enter Temperature in Fahrenheit" ;
     cin >> 
     //return celsius;
