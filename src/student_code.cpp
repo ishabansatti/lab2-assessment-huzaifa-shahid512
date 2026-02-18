@@ -22,8 +22,6 @@ char getCharValue() {
 
 int convertFloatToInt(float value) {
     // convert value to int.
-    static_cast(value);
-    return value;
 }
 
 /*
@@ -33,8 +31,6 @@ Formula:
     Celsius = (Fahrenheit - 32) * 5 / 9
 */
 float fahrenheitToCelsius(float fahrenheit) {
-    cout << "Enter Temperature in Fahrenheit" ;
-    cin >> 
     //return celsius;
 
 }
